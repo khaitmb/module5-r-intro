@@ -1,4 +1,5 @@
 # Module 5: Introduction to R
+Khaitlin Bernaldez
 
 R is an extraordinarily powerful open-source software program built for working with data. It is one of the most popular tools for performing advanced data techniques, including statistical analysis, machine learning, and data visualization. R will be the primary programming language for this course, and we will develop a strong understanding of how to leverage the power of R.
 
